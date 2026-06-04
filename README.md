@@ -1,4 +1,4 @@
 # Project-Masterline
-Kelompok Masterline;
-Nama : Kevin Tean Daniswara
+Kelompok Masterline;\n
+Nama : Kevin Tean Daniswara\n
 NPM : 1402025026
